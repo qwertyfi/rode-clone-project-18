@@ -7,10 +7,13 @@ I'm Wasit Ali and this is my 18th project and 3rd project in HTML and Tailwind C
 
 ## 🖥 Preview
 
-![](./assets/2022-10-14-18-19-17.png)
-![](./assets/2022-10-14-18-19-30.png)
-![](./assets/2022-10-14-18-19-44.png)
-![](./assets/2022-10-14-18-20-01.png)
+![](./assets/preview-1.png)
+
+![](./assets/preview-2.png)
+
+![](./assets/preview-3.png)
+
+![](./assets/preview-4.png)
 
 🚀 [Live Preview](https://fanciful-gingersnap-8b38e8.netlify.app/)
 
