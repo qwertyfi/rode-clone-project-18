@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Technologies%20Used-HTML--TAILWIND%20CSS-brightgreen)
 
-# Project-18 | Shopify Clone
+# Project-18 | Rode Clone
 
 Hi there,
 I'm Wasit Ali and this is my 18th project and 3rd project in HTML and Tailwind CSS.
@@ -15,12 +15,14 @@ I'm Wasit Ali and this is my 18th project and 3rd project in HTML and Tailwind C
 
 ![](./assets/preview-4.png)
 
-🚀 [Live Preview](https://fanciful-gingersnap-8b38e8.netlify.app/)
+🚀 [Live Preview](https://rode-clone-project-18.vercel.app/)
 
 ## 🛠️ What I have learned in this project?
 
-- More about Tailwind and its use case.
+- Explored the extensive capabilities of Tailwind CSS and its wide range of practical use cases.
 - Handled mobile responsive entirely with Tailwind CSS.
+- Developed troubleshooting and problem-solving abilities.
+- Proficient in reading and utilizing Tailwind CSS documentation.
 
 ## ⏲ Time taken to finish the project
 
